@@ -7,7 +7,7 @@ import {
 
 import {
   LineChart,
-  Line,
+  Line, 
   BarChart,
   Bar,
   PieChart,
@@ -24,7 +24,7 @@ import {
   Bell,
   Mail,
   Inbox,
-  Send,
+  
 } from "lucide-react";
 
 export default function CommunicationDashboard() {

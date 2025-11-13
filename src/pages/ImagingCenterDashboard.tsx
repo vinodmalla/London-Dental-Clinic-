@@ -24,7 +24,7 @@ import {
   ScanSearch,
   Activity,
   BarChart3,
-  FolderOpen,
+  
 } from "lucide-react";
 
 export default function ImagingCenterDashboard() {

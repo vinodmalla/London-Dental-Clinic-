@@ -21,7 +21,7 @@ import {
 
 import {
   Mic,
-  MessageSquare,
+ 
   Brain,
   Timer,
   CheckCircle2,

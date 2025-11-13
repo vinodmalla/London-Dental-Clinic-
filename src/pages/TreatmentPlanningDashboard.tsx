@@ -20,7 +20,7 @@ import {
 } from "recharts";
 
 import {
-  Stethoscope,
+  
   ClipboardList,
   Activity,
   CheckCircle,
