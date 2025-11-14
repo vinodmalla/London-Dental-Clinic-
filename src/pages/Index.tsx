@@ -84,7 +84,7 @@ export default function Index() {
       </div>
 
       {/* Stats Section */}
-      <div className="container mx-auto px-4 -mt-12">
+      <div className="container md:mt-20 mx-auto px-4 -mt-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           {stats.map((stat, index) => (
             <Card key={index} className="bg-white shadow-lg hover:shadow-xl transition-shadow">
@@ -109,7 +109,7 @@ export default function Index() {
           <p className="text-xl text-gray-600">Everything you need to run a modern dental practice</p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1  md:grid-cols-2 lg:grid-cols-3 gap-8">
           {features.map((feature, index) => (
             <Card key={index} className="hover:shadow-lg transition-shadow border-2 hover:border-blue-200">
               <CardHeader>
